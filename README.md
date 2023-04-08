@@ -1,3 +1,7 @@
+# 划词翻译从 v9.8.0 起已经支持无需填写 API Key 就使用 ChatGPT 了，所以此项目不再维护。
+
+--------------
+
 # @hcfy/plugin-chatgpt
 
 在划词翻译中使用 ChatGPT。
